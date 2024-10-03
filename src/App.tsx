@@ -6,8 +6,8 @@ import Avatars from "./components/Avatars";
 const ParentDiv = styled.div`
   width: 80vw;
   margin: auto;
-  border: 5px darkgoldenrod solid;
-  padding: 20px;
+  border: 2% darkgoldenrod solid;
+  padding: 3%;
   background-color: #f7f7f7;
 `;
 
